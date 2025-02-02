@@ -41,4 +41,5 @@ This repository serves as a beginner-friendly guide to NumPy, the fundamental pa
 ## 💻 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Intro-to-Numpy.git
+
+https://github.com/AbhineetGarga/Intro-t-Numpy.git
